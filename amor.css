@@ -95,6 +95,16 @@ button:hover {
     margin: 20px 0; /* Espaçamento superior e inferior */
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Sombra para destacar */
 }
+
+.texto2 {
+    font-family: 'Dancing Script', cursive; /* Fonte personalizada */
+    font-size: 20px; /* Tamanho da fonte */
+    color: #ffb6c1; /* Cor rosa claro */
+    text-align: center; /* Centralizar o texto */
+    line-height: 1.6; /* Espaçamento entre linhas */
+    margin: 20px 0; /* Espaçamento superior e inferior */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Sombra para destacar */
+}
 .divider {
     border: none; /* Remove o estilo padrão */
     height: 2px; /* Define a altura da linha */
